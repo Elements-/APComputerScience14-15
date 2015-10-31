@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractTest/AbstractTest.iml" filepath="$PROJECT_DIR$/AbstractTest/AbstractTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListLab/ArrayListLab.iml" filepath="$PROJECT_DIR$/ArrayListLab/ArrayListLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessingGame/GuessingGame.iml" filepath="$PROJECT_DIR$/GuessingGame/GuessingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsLab/LoopsLab.iml" filepath="$PROJECT_DIR$/LoopsLab/LoopsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MagicSquare/MagicSquare.iml" filepath="$PROJECT_DIR$/MagicSquare/MagicSquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeFinder/PrimeFinder.iml" filepath="$PROJECT_DIR$/PrimeFinder/PrimeFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/School.iml" filepath="$PROJECT_DIR$/School.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringsLab/StringsLab.iml" filepath="$PROJECT_DIR$/StringsLab/StringsLab.iml" />
+    </modules>
+  </component>
+</project>
